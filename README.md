@@ -6,7 +6,7 @@
 
 本文采用`MVP`思想实现了项目基础框架搭建，并演示了登录流程，其整体思路如下图所示：
 
-![image](https://github.com/tianyalu/NeMvpModelLogin/raw/master/show/login_mvp_structure.png)
+![image](https://github.com/tianyalu/NeMvpModeLogin/raw/master/show/login_mvp_structure.png)
 
 ## 二、登录实现
 
@@ -14,13 +14,13 @@
 
 实现效果如下图所示：
 
-![image](https://github.com/tianyalu/NeMvpModelLogin/raw/master/show/show.gif)
+![image](https://github.com/tianyalu/NeMvpModeLogin/raw/master/show/show.gif)
 
 ### 2.2 整体思路
 
 代码层面的结构如下图所示：
 
-![image](https://github.com/tianyalu/NeMvpModelLogin/raw/master/show/show.png)
+![image](https://github.com/tianyalu/NeMvpModeLogin/raw/master/show/show.png)
 
 ### 2.3 内存泄漏
 
