@@ -12,7 +12,7 @@
 
 ### 2.1 实现效果
 
-实现效果如下图所示：
+实现效果如下图所示：
 
 ![image](https://github.com/tianyalu/NeMvpModeLogin/raw/master/show/show.gif)
 
