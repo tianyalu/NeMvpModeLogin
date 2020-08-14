@@ -16,11 +16,11 @@
 
 ![image](https://github.com/tianyalu/NeMvpModeLogin/raw/master/show/show.gif)
 
-### 2.2 整体思路
+### 2.2 登录流程架构
 
 代码层面的结构如下图所示：
 
-![image](https://github.com/tianyalu/NeMvpModeLogin/raw/master/show/show.png)
+![image](https://github.com/tianyalu/NeMvpModeLogin/raw/master/show/mvp_structure_login_process.png)
 
 ### 2.3 内存泄漏
 
